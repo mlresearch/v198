@@ -1,0 +1,88 @@
+---
+booktitle: Proceedings of the First Learning on Graphs Conference
+conference_number: '1'
+end: 2022-12-12
+published: 2022-12-21
+sections:
+- name: Preface
+  title: Preface
+- name: Oral Presentations
+  title: Oral Presentations
+- name: Poster Presentations
+  title: Poster Presentations
+shortname: LoG
+start: 2022-12-09
+volume: '198'
+year: '2022'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: log22
+month: 0
+cycles: false
+bibtex_editor: Rieck, Bastian and Pascanu, Razvan
+editor:
+- given: Bastian
+  family: Rieck
+- given: Razvan
+  family: Pascanu
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the First Learning on Graphs Conference
+    Held in Virtual on 09-12 December 2022
+
+  Published as Volume 198 by the Proceedings of Machine Learning Research on 21 December 2022.
+
+  Volume Edited by:
+    Bastian Rieck
+    Razvan Pascanu
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: '09--12 Dec'
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v198"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v198
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v198
+email: ''
+conference:
+  name: Learning on Graphs Conference
+  url: https://logconference.org/
+  location: Virtual
+  dates:
+  - 2022-12-09
+  - 2022-12-10
+  - 2022-12-11
+  - 2022-12-12
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v198/log22.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v198/log22.bib
